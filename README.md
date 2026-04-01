@@ -9,10 +9,10 @@
 
 ```yaml
 nama       : "Aditya Octavian"
-lokasi     : "Indonesia 🇮🇩"
+lokasi     : "Bojonegoro, Jawa Timur, Indonesia"
 pendidikan : "Rekayasa Perangkat Lunak (RPL)"
 status     : "Pelajar aktif yang passionate di bidang teknologi"
-fokus      : ["HTML", "CSS", "JS", "Bootstrap Awal", "PHP Awal"]
+fokus      : ["Java", "C++" , "Python" , "HTML", "CSS", "JS", "Bootstrap Awal", "PHP Awal"]
 hobi       : ["Coding", "Problem Solving", "Belajar hal baru"]
 motto      : "Code is not just syntax, it's art 🎨"
 ```
