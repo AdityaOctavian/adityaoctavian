@@ -2,12 +2,7 @@
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Halo%2C%20Saya%20Aditya!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Future%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=🎓+Rekayasa+Perangkat+Lunak+(RPL);💻+JavaScript
-
 </div>
-
 ---
 
 ## 🧑‍💻 Tentang Saya
