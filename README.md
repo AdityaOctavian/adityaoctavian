@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Halo%2C%20Saya%20Aditya!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Future%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=🎓+Rekayasa+Perangkat+Lunak+(RPL);💻+JavaScript+%26+React+Learner;�+PHP+%26+Laravel+Enthusiast;🚀+Turning+Ideas+Into+Reality;🌟+Always+Growing+Every+Day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=🎓+Rekayasa+Perangkat+Lunak+(RPL);💻+JavaScript
 
 </div>
 
@@ -17,7 +17,7 @@ nama       : "Aditya Octavian"
 lokasi     : "Indonesia 🇮🇩"
 pendidikan : "Rekayasa Perangkat Lunak (RPL)"
 status     : "Pelajar aktif yang passionate di bidang teknologi"
-fokus      : ["JavaScript", "React.js", "PHP", "Laravel"]
+fokus      : ["HTML", "CSS", "JS", "Bootstrap Awal", "PHP Awal"]
 hobi       : ["Coding", "Problem Solving", "Belajar hal baru"]
 motto      : "Code is not just syntax, it's art 🎨"
 ```
@@ -30,8 +30,8 @@ motto      : "Code is not just syntax, it's art 🎨"
 
 | 📚 Sedang Dipelajari | 🔭 Sedang Dibangun | 🌱 Target ke Depan |
 |:--------------------:|:------------------:|:-----------------:|
-| JavaScript (ES6+) | Web Application | Fullstack Dev |
-| React.js & Hooks | REST API dengan Laravel | Open Source |
+| JavaScript | Web Application | Fullstack Dev |
+| Bootstrap | Design Simple Bootstrap | Open Source |
 | PHP & Laravel | UI/UX dengan React | Cloud Deployment |
 
 </div>
@@ -43,15 +43,12 @@ motto      : "Code is not just syntax, it's art 🎨"
 <div align="center">
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend & Database
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧰 Tools & Platform
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
